@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BTDoorLock</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="connect">Connect</string>
+    <string name="unlock">Unlock</string>
+    <string name="lock">Lock</string>
+    <string name="pair">Pair</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="teamName">The Spectrums</string>
+</resources>
